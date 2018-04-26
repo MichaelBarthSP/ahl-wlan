@@ -26,7 +26,7 @@
 ## 9. Uncheck `Verify the server's identity by validating the certificate` and click `Configure...`
 ![Do not verify the certificate](https://github.com/MichaelBarthSP/ahl-wlan/blob/master/090-configure.PNG?raw=true)
 
-## 10. Uncheck (if checked) `Automatically use my Windows logon name and password (and domain if any)` and click `OK`
+## 10.  ![Uncheck](http://icons.iconarchive.com/icons/gianni-polito/colobrush/256/system-attention-icon.png) Uncheck (if checked) `Automatically use my Windows logon name and password (and domain if any)` and click `OK`
 ![Do not try Windows logon credentials](https://github.com/MichaelBarthSP/ahl-wlan/blob/master/100-no_windows_logon.PNG?raw=true)
 
 ## 11. Click `OK`
